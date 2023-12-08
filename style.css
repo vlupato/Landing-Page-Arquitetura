@@ -4,6 +4,8 @@
   font-family: "inter";
 }
 
+/*SEÇÃO MENU SUPERIOR*/
+
 #menu-superior {
   background-color: #303030;
   height: 475px;
@@ -25,6 +27,8 @@
   padding-left: 62px;
 }
 
+/*SEÇÃO INFORMACIONAL COM NUMEROS*/
+
 #informacao-numero {
   background-color: #f9f9f9;
   height: 229px;
@@ -44,6 +48,8 @@
   font-weight: 600;
   font-size: 20px;
 }
+
+/*SEÇÃO INFORMACIONAL COM IMAGEM*/
 
 #informacao-imagem {
   padding-top: 80px;
@@ -68,6 +74,8 @@
   font-size: 24px;
 }
 
+/*SEÇÃO FORMULÁRIO*/
+
 #formulario {
   background-color: #303030;
   height: 638px;
@@ -86,8 +94,9 @@ input {
   height: 72px;
   background-color: #ffffff;
   border-radius: 10px;
-  
 }
+
+/*SEÇÃO BOTAO*/
 
 button {
   margin-top: 60px;
